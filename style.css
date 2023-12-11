@@ -221,6 +221,7 @@ section{
   border-radius: 5rem;
   margin-top: 2rem;
   bottom: -8%;
+  cursor: pointer;
 }
 .categories-container .box .bx:hover{
   background: var(--color-light-orange);
